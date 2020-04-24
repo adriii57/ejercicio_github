@@ -4,4 +4,5 @@
 
 1. Analizo Outliers
 2. Analizo descriptivos
-3.
+3. Voy a analizar los datos
+
