@@ -2,6 +2,6 @@
 
 # Para ello seguiremos estos pasos
 
-1.
-2.
+1. Analizo Outliers
+2. Analizo descriptivos
 3.
